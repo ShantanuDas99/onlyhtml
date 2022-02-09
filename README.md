@@ -1,0 +1,2 @@
+# onlyhtml
+static website
